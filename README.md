@@ -1,6 +1,6 @@
 # COVID-19 Misinformation Analysis
 
-A Jupyter Notebook project analyzing COVID-19 misinformation through computational text analysis. Made with Sam Rigor at BU for CAS LX390: Metrics and Evaluation in NLP under Dr. Najoung Kim
+A Jupyter Notebook project analyzing COVID-19 misinformation through computational text analysis. Made with Sam Rigor at BU for CAS LX390: Metrics and Evaluation in NLP under Dr. Najoung Kim.
 
 ## Overview
 
