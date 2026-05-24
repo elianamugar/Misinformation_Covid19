@@ -12,9 +12,14 @@ The notebook demonstrates how computational linguistics and NLP methods can be u
 
 ```txt
 Misinformation_Covid19/
-├── covid19_misinformation_analysis.ipynb
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+├── notebooks/
+│   └── covid19_misinformation_analysis.ipynb
+├── data/
+│   └── README.md
+└── outputs/
+    └── README.md
 ```
 
 ## Skill Demonstrated
@@ -32,7 +37,7 @@ pip install -r requirements.txt
 ```
 Then open the notebook:
 ```bash
-jupyter notebook covid19_misinformation_analysis.ipynb
+jupyter notebook notebooks/covid19_misinformation_analysis.ipynb
 ```
 
 ## Notes
